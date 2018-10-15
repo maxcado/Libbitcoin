@@ -1,0 +1,2 @@
+# Libbitcoin
+Bitcoin library
